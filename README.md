@@ -153,6 +153,7 @@ Zarządza kolorystyką interfejsu użytkownika.
 Sklonuj repozytorium:
 https://github.com/Wojciechchyzy1/Zgadnij-Liczbe-2.git
 ### Visual Studio
+Jako element startowy wybierz "Zgadnij liczbe 2.csproj
  Naciśnij:
 
 F5
