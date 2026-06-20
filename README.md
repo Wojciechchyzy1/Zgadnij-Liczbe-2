@@ -51,6 +51,7 @@ Po przekroczeniu limitu prób gra kończy się przegraną.
 ### 🚀 New Game Plus
 
 Specjalny tryb rozgrywki, w którym liczba może być ponownie losowana podczas gry, co zwiększa poziom trudności.
+Brak możliwości wyboru trybu zakładu.
 
 ### 🌍 Obsługa wielu języków
 
@@ -149,38 +150,18 @@ Zarządza kolorystyką interfejsu użytkownika.
 
 ## Uruchomienie projektu
 
+Sklonuj repozytorium:
+https://github.com/Wojciechchyzy1/Zgadnij-Liczbe-2.git
 ### Visual Studio
-
-1. Otwórz plik rozwiązania:
-
-Zgadnij Liczbe 2.slnx
-
-2. Ustaw projekt jako StartUp Project.
-3. Naciśnij:
+ Naciśnij:
 
 F5
 
 lub
 
-Ctrl + F5
+Przycisk "Zgadnij liczbe 2" wyświetlany na górze
 
 aby uruchomić aplikację.
-
-### Terminal
-
-Przejdź do katalogu projektu:
-
-```bash
-cd "Zgadnij Liczbe 2"
-```
-
-Uruchom program:
-
-```bash
-dotnet run
-```
-
----
 
 ## Zastosowane elementy programowania obiektowego
 
